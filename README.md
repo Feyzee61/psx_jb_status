@@ -1,4 +1,4 @@
-# PlayStation Jailbreak Status Oct 1st 2025
+# PlayStation Jailbreak Status Oct 19th 2025
 
 ## Description
 This repository contains Excel file that document the jailbreak status of PlayStation 4 and PlayStation 5 firmware versions.

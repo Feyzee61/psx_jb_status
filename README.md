@@ -1,13 +1,13 @@
-# PlayStation Jailbreak Status Nov 12th 2025
+# PlayStation Jailbreak Status Dec 18th 2025
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="images/PS4.Jailbreak.Status.20251112.png" alt="PS4_JB" width="296"/>
+        <img src="images/PS4.Jailbreak.Status.20251218.png" alt="PS4_JB" width="300"/>
       </td>
       <td>
-        <img src="images/PS5.Jailbreak.Status.20251112.png" alt="PS5_JB" width="310"/>
+        <img src="images/PS5.Jailbreak.Status.20251218.png" alt="PS5_JB" width="320"/>
       </td>
     </tr>
     <tr>

@@ -7,7 +7,7 @@
         <img src="images/PS4.Jailbreak.Status1.png" alt="PS4_JB" width="300"/>
       </td>
       <td>
-        <img src="images/PS5.Jailbreak.Status1.png" alt="PS5_JB" width="300"/>
+        <img src="images/PS5.Jailbreak.Status.png" alt="PS5_JB" width="300"/>
       </td>
     </tr>
     <tr>

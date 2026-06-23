@@ -1,4 +1,4 @@
-# PlayStation Jailbreak Status June 16th 2026
+# PlayStation Jailbreak Status June 23 2026
 
 <div align="center">
   <table>

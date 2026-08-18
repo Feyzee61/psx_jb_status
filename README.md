@@ -1,4 +1,4 @@
-# PlayStation Jailbreak Status August 16 2026
+# PlayStation Jailbreak Status August 18th 2026
 
 <div align="center">
   <table>
@@ -7,7 +7,7 @@
         <img src="images/PS4.Jailbreak.Status2.png" alt="PS4_JB" width="300"/>
       </td>
       <td>
-        <img src="images/PS5.Jailbreak.Status2.png" alt="PS5_JB" width="300"/>
+        <img src="images/PS5.Jailbreak.Status3.png" alt="PS5_JB" width="300"/>
       </td>
     </tr>
     <tr>
